@@ -1,0 +1,13 @@
+#btn {
+    width: 100px;
+    height: 35px;
+    border: none;
+    background-color: aquamarine;
+    font-size: 13px;
+    color: black;
+    cursor: pointer;
+}
+
+input[type="file"] {
+    display: none;
+}
